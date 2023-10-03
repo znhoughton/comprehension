@@ -1,0 +1,778 @@
+Source,Experiment,Dog,Trial,Type,Button,Time,Total Length,FPS,Subject,Behavior,Behavioral category,Modifiers,Behavior type
+CSC_Dio_Trial1,CSC,Dio,1,Press,Daxing,55.385,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial1,CSC,Dio,1,Press,Daxing,58.198,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,4.624,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,4.635,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,12.432,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,12.552,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,14.774,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Dio_Trial2,CSC,Dio,2,Speak,Food,51.051,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial5,CSC,Dio,5,Speak,Daxing,23.543,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial5,CSC,Dio,5,Speak,Daxing,23.901,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial5,CSC,Dio,5,Speak,Daxing,45.765,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Dio_Trial5,CSC,Dio,5,Speak,Daxing,45.884,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Dio_Trial5,CSC,Dio,5,Speak,Daxing,48.635,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,12.134,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,12.384,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,14.534,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,35.795,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,50.63,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial6,CSC,Dio,6,Press,Outside,57.357,60,60,,Lip/Nose Licking,,,POINT
+CSC_Dio_Trial8,CSC,Dio,8,Speak,Play,23.303,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Dio_Trial8,CSC,Dio,8,Speak,Play,23.363,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Dio_Trial8,CSC,Dio,8,Speak,Play,24.924,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial1,CSC,Ila,1,Speak,Play,7.387,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial1,CSC,Ila,1,Speak,Play,31.891,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial1,CSC,Ila,1,Speak,Play,35.195,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial1,CSC,Ila,1,Speak,Play,52.852,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial3,CSC,Ila,3,Speak,Food,5.345,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial3,CSC,Ila,3,Speak,Food,19.399,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial3,CSC,Ila,3,Speak,Food,33.153,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial3,CSC,Ila,3,Speak,Food,50.87,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,7.867,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,11.291,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,15.495,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,21.681,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,30.51,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,32.135,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,32.312,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Ila_Trial4,CSC,Ila,4,Speak,Outside,49.429,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,9.489,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,9.669,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,10.03,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,18.018,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,24.324,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,28.048,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,36.635,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial5,CSC,Ila,5,Press,Play,46.885,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,1.381,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,1.741,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,4.744,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,5.225,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,5.705,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,6.246,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,16.756,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,16.936,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,17.537,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,20.36,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,20.54,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,21.921,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,25.045,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,29.429,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,34.234,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,37.297,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,38.198,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,40.24,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,40.48,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,46.846,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,47.567,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,48.948,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial6,CSC,Ila,6,Speak,Daxing,49.189,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,14.294,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,14.534,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,16.576,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,18.618,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,19.219,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,19.519,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,20.3,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,20.96,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,21.381,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,22.522,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,22.702,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,23.303,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,23.483,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,23.663,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,24.264,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,26.186,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,26.546,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,27.207,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,31.636,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial7,CSC,Ila,7,Press,Outside,55.975,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,4.504,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,4.864,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,4.924,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,6.966,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,7.627,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,10.03,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,10.33,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,10.75,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,10.87,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,18.318,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,19.339,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,27.867,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,39.099,60,60,,Lip/Nose Licking,,,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,52.132,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Ila_Trial8,CSC,Ila,8,Press,Food,52.252,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,2.042,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,12.912,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,18.138,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,21.081,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,23.723,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,31.351,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,37.057,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial1,CSC,Kipo,1,Speak,Food,49.309,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial2,CSC,Kipo,2,Speak,Outside,44.564,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Kipo_Trial2,CSC,Kipo,2,Speak,Outside,44.804,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Kipo_Trial2,CSC,Kipo,2,Speak,Outside,52.432,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial2,CSC,Kipo,2,Speak,Outside,54.594,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial3,CSC,Kipo,3,Press,Play,6.306,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial3,CSC,Kipo,3,Press,Play,12.912,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial3,CSC,Kipo,3,Press,Play,18.078,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial3,CSC,Kipo,3,Press,Play,23.483,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial3,CSC,Kipo,3,Press,Play,27.447,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Kipo_Trial4,CSC,Kipo,4,Speak,Daxing,35.615,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial5,CSC,Kipo,5,Press,Outside,7.136,58.27,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial5,CSC,Kipo,5,Press,Outside,33.634,58.27,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial5,CSC,Kipo,5,Press,Outside,52.134,58.27,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,17.957,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,20.885,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,30.385,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,40.6,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,40.78,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,43.423,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,46.126,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial6,CSC,Kipo,6,Press,Food,47.447,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,8.854,59.37,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,9.092,59.37,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,10.815,59.37,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,11.053,59.37,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,15.391,59.37,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,31.258,59.37,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial7,CSC,Kipo,7,Speak,Play,35.834,59.37,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial8,CSC,Kipo,8,Press,Daxing,17.897,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial8,CSC,Kipo,8,Press,Daxing,38.258,60,60,,Lip/Nose Licking,,,POINT
+CSC_Kipo_Trial8,CSC,Kipo,8,Press,Daxing,56.396,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial1,CSC,Lulu,1,Press,Daxing,1.151,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Lulu_Trial1,CSC,Lulu,1,Press,Daxing,1.201,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Lulu_Trial1,CSC,Lulu,1,Press,Daxing,14.234,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Lulu_Trial1,CSC,Lulu,1,Press,Daxing,57.057,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial1,CSC,Lulu,1,Press,Daxing,60,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial3,CSC,Lulu,3,Speak,Outside,0,60,60,,Head Tilting,,Left,POINT
+CSC_Lulu_Trial3,CSC,Lulu,3,Speak,Outside,6.606,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,8.588,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,13.153,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,17.897,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,18.078,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,19.279,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,26.966,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,27.147,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Lulu_Trial4,CSC,Lulu,4,Press,Play,35.915,60,60,,Head Tilting,,Left,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,0.48,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,20.54,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,33.393,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,34.054,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,34.174,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,35.075,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,36.385,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,36.885,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,43.243,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,45.465,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial5,CSC,Lulu,5,Speak,Daxing,58.618,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,6.126,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,8.048,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,12.012,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,12.252,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,23.963,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,40.36,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,48.048,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,49.669,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Lulu_Trial6,CSC,Lulu,6,Press,Outside,58.498,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Lulu_Trial7,CSC,Lulu,7,Press,Food,0,60,60,,Head Tilting,,Left,POINT
+CSC_Lulu_Trial7,CSC,Lulu,7,Press,Food,24.744,60,60,,Head Tilting,,Left,POINT
+CSC_Lulu_Trial7,CSC,Lulu,7,Press,Food,43.723,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Lulu_Trial7,CSC,Lulu,7,Press,Food,43.783,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Lulu_Trial7,CSC,Lulu,7,Press,Food,47.567,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,0.96,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,1.441,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,15.495,60,60,,Lip/Nose Licking,,,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,26.906,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,26.966,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,31.951,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,32.432,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,34.654,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Lulu_Trial8,CSC,Lulu,8,Speak,Play,58.618,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Monty_Trial1,CSC,Monty,1,Press,Play,0.06,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Monty_Trial1,CSC,Monty,1,Press,Play,3.243,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Monty_Trial1,CSC,Monty,1,Press,Play,3.843,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Monty_Trial2,CSC,Monty,2,Speak,Daxing,0,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial2,CSC,Monty,2,Speak,Daxing,58.978,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,9.429,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,17.237,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,22.282,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,22.942,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,29.489,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,34.954,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial3,CSC,Monty,3,Press,Outside,35.435,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,0.78,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,6.546,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,7.687,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,9.609,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,19.099,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial4,CSC,Monty,4,Press,Food,24.324,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,0.06,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,12.852,60,60,,Head Tilting,,Right,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,23.423,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,23.483,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,23.543,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,27.927,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial5,CSC,Monty,5,Speak,Play,40.66,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial6,CSC,Monty,6,Press,Daxing,1.981,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial6,CSC,Monty,6,Press,Daxing,20.84,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial6,CSC,Monty,6,Press,Daxing,36.036,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial6,CSC,Monty,6,Press,Daxing,48.048,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial7,CSC,Monty,7,Speak,Food,0.06,60,60,,Head Tilting,,Right,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,3.963,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,4.504,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,5.225,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,23.903,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,25.225,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,26.786,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,29.609,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,31.951,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,39.159,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,40.36,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,52.732,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,56.516,60,60,,Lip/Nose Licking,,,POINT
+CSC_Monty_Trial8,CSC,Monty,8,Speak,Outside,57.537,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,17.417,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,17.777,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,19.579,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,20.24,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,21.441,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,21.981,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,29.009,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,39.519,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial1,CSC,Nita,1,Speak,Outside,53.033,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial2,CSC,Nita,2,Press,Play,39.639,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial2,CSC,Nita,2,Press,Play,39.819,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial2,CSC,Nita,2,Press,Play,41.981,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+CSC_Nita_Trial3,CSC,Nita,3,Speak,Daxing,27.747,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial3,CSC,Nita,3,Speak,Daxing,27.987,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial3,CSC,Nita,3,Speak,Daxing,34.594,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,0.06,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,2.522,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,8.348,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,9.189,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,27.507,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,29.369,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+CSC_Nita_Trial4,CSC,Nita,4,Press,Outside,58.078,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,1.681,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,15.375,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,19.939,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,20.84,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,39.579,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial5,CSC,Nita,5,Press,Food,42.042,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,3.903,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,4.864,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,5.165,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,7.987,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,32.432,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,34.234,60,60,,Head Tilting,,Left,POINT
+CSC_Nita_Trial6,CSC,Nita,6,Speak,Play,37.777,60,60,,Lip/Nose Licking,,,POINT
+CSC_Nita_Trial7,CSC,Nita,7,Press,Daxing,6.666,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial7,CSC,Nita,7,Press,Daxing,14.774,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Nita_Trial7,CSC,Nita,7,Press,Daxing,29.969,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Nita_Trial7,CSC,Nita,7,Press,Daxing,30.93,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+CSC_Nita_Trial8,CSC,Nita,8,Speak,Food,9.909,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Nita_Trial8,CSC,Nita,8,Speak,Food,10.15,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,0.06,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,0.54,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,9.009,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,9.249,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,20.6,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,20.72,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,22.642,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,24.504,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,24.924,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,29.636,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,30.93,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,33.273,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Oliver_Trial1,CSC,Oliver,1,Press,Daxing,56.696,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,0,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,0.42,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,2.702,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,3.723,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,13.993,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,14.114,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Oliver_Trial2,CSC,Oliver,2,Speak,Food,15.375,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Oliver_Trial4,CSC,Oliver,4,Press,Play,7.867,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Oliver_Trial4,CSC,Oliver,4,Press,Play,14.054,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Oliver_Trial6,CSC,Oliver,6,Press,Outside,1.141,60,60,,Lip/Nose Licking,,,POINT
+CSC_Oliver_Trial6,CSC,Oliver,6,Press,Outside,58.258,60,60,,Lip/Nose Licking,,,POINT
+CSC_Oliver_Trial7,CSC,Oliver,7,Press,Food,0,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Oliver_Trial7,CSC,Oliver,7,Press,Food,23.243,60,60,,Lip/Nose Licking,,,POINT
+CSC_Oliver_Trial8,CSC,Oliver,8,Speak,Play,40.6,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Oliver_Trial8,CSC,Oliver,8,Speak,Play,40.66,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Pepper_Trial1,CSC,Pepper,1,Press,Daxing,10.57,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial1,CSC,Pepper,1,Press,Daxing,12.792,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial1,CSC,Pepper,1,Press,Daxing,14.234,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial1,CSC,Pepper,1,Press,Daxing,20.78,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,1.561,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,21.321,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,23.483,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,24.324,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,25.405,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,27.447,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,29.249,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial3,CSC,Pepper,3,Speak,Outside,38.738,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial4,CSC,Pepper,4,Press,Play,10.15,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial4,CSC,Pepper,4,Press,Play,13.513,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Pepper_Trial6,CSC,Pepper,6,Press,Outside,1.621,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial6,CSC,Pepper,6,Press,Outside,3.303,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial6,CSC,Pepper,6,Press,Outside,3.783,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial6,CSC,Pepper,6,Press,Outside,6.006,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial7,CSC,Pepper,7,Press,Food,1.861,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial7,CSC,Pepper,7,Press,Food,3.003,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial7,CSC,Pepper,7,Press,Food,51.291,60,60,,Lip/Nose Licking,,,POINT
+CSC_Pepper_Trial8,CSC,Pepper,8,Speak,Play,3.652,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Pepper_Trial8,CSC,Pepper,8,Speak,Play,10.93,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Pepper_Trial8,CSC,Pepper,8,Speak,Play,34.954,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,6.306,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,28.048,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,43.303,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,43.663,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,48.348,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,49.309,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,54.354,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Roscoe_Trial1,CSC,Roscoe,1,Speak,Daxing,54.534,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Roscoe_Trial2,CSC,Roscoe,2,Press,Outside,19.399,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,0.06,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,2.762,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,3.183,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,31.411,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,41.381,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,41.861,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Roscoe_Trial3,CSC,Roscoe,3,Press,Food,42.402,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,14.234,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,14.414,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,15.195,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,15.555,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,24.984,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,28.528,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,30.63,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,30.93,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,31.111,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,31.231,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,33.753,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial4,CSC,Roscoe,4,Speak,Play,35.675,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,2.702,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,2.942,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,3.603,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,3.903,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,19.759,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,20.36,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,20.78,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,23.243,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,39.339,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,41.381,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,43.543,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,53.453,60,60,,Lip/Nose Licking,,,POINT
+CSC_Roscoe_Trial8,CSC,Roscoe,8,Press,Play,58.798,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,0.06,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,0.12,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,0.18,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,0.54,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,9.069,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,10.39,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,12.312,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,33.393,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,34.954,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,36.876,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,37.117,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,37.237,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,37.837,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,39.819,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial1,CSC,Waffle,1,Press,Play,43.483,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,45.105,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,52.012,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,52.252,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,52.372,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,52.492,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,52.972,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial2,CSC,Waffle,2,Speak,Daxing,54.054,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,0.059,59.63,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,0.656,59.63,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,9.789,59.63,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,11.281,59.63,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,12.237,59.63,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,15.4,59.63,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,15.52,59.63,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial3,CSC,Waffle,3,Press,Outside,18.265,59.63,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial4,CSC,Waffle,4,Press,Food,14.134,56.48,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial4,CSC,Waffle,4,Press,Food,15.944,56.48,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial5,CSC,Waffle,5,Speak,Play,34.894,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial5,CSC,Waffle,5,Speak,Play,35.615,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+CSC_Waffle_Trial5,CSC,Waffle,5,Speak,Play,37.957,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+CSC_Waffle_Trial5,CSC,Waffle,5,Speak,Play,38.678,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial6,CSC,Waffle,6,Press,Daxing,11.171,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial6,CSC,Waffle,6,Press,Daxing,18.918,60,60,,Lip/Nose Licking,,,POINT
+CSC_Waffle_Trial6,CSC,Waffle,6,Press,Daxing,58.078,60,60,,Head Tilting,,Right,POINT
+IPC_Adora_Trial1,IPC,Adora,1,Press,Play,14.774,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial1,IPC,Adora,1,Press,Play,24.864,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial1,IPC,Adora,1,Press,Play,33.453,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial1,IPC,Adora,1,Press,Play,38.258,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial1,IPC,Adora,1,Press,Play,44.564,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial2,IPC,Adora,2,Press,Food,6.486,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Adora_Trial2,IPC,Adora,2,Press,Food,7.207,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial3,IPC,Adora,3,Press,Daxing,22.942,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial3,IPC,Adora,3,Press,Daxing,24.984,60,60,,Lip/Nose Licking,,,POINT
+IPC_Adora_Trial4,IPC,Adora,4,Press,Outside,24.504,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial1,IPC,Alvin,1,Press,Play,6.966,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial1,IPC,Alvin,1,Press,Play,42.702,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,2.702,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,25.105,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,26.666,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,34.774,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,35.315,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,35.675,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,36.276,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,36.816,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,38.738,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,49.309,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,49.429,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,51.471,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,51.591,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Alvin_Trial2,IPC,Alvin,2,Press,Outside,58.138,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,0.06,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,5.405,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,8.528,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,10.57,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,15.555,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,18.386,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,30.93,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,30.93,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,33.637,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial3,IPC,Alvin,3,Press,Daxing,52.385,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,16.096,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,16.156,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,17.177,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,17.597,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,21.261,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,22.402,60,60,,Lip/Nose Licking,,,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,26.666,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,27.027,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,28.888,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,49.135,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Alvin_Trial4,IPC,Alvin,4,Press,Food,51.111,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Bastian_Trial1,IPC,Bastian,1,Press,Play,2.342,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Bastian_Trial1,IPC,Bastian,1,Press,Play,24.204,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Bastian_Trial2,IPC,Bastian,2,Press,Daxing,1.261,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Bastian_Trial3,IPC,Bastian,3,Press,Food,19.099,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Bastian_Trial4,IPC,Bastian,4,Press,Outside,0.06,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,9.9,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,22.702,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,28.385,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,32.432,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,40.54,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,43.723,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial1,IPC,Buster,1,Press,Daxing,52.072,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial2,IPC,Buster,2,Press,Food,0,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial2,IPC,Buster,2,Press,Food,5.285,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial2,IPC,Buster,2,Press,Food,10.69,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial2,IPC,Buster,2,Press,Food,59.459,60,60,,Lip/Nose Licking,,,POINT
+IPC_Buster_Trial3,IPC,Buster,3,Press,Play,13.813,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial3,IPC,Buster,3,Press,Play,22.702,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial3,IPC,Buster,3,Press,Play,41.741,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Buster_Trial3,IPC,Buster,3,Press,Play,43.063,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Chester_Trial1,IPC,Chester,1,Press,Food,48.168,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chester_Trial1,IPC,Chester,1,Press,Food,49.309,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chester_Trial1,IPC,Chester,1,Press,Food,57.177,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chester_Trial2,IPC,Chester,2,Press,Play,19.579,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chester_Trial3,IPC,Chester,3,Press,Outside,9.369,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chuckles_Trial1,IPC,Chuckles,1,Press,Outside,41.321,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chuckles_Trial2,IPC,Chuckles,2,Press,Food,49.969,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Chuckles_Trial2,IPC,Chuckles,2,Press,Food,50.09,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Chuckles_Trial2,IPC,Chuckles,2,Press,Food,52.012,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+IPC_Chuckles_Trial2,IPC,Chuckles,2,Press,Food,54.834,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Chuckles_Trial2,IPC,Chuckles,2,Press,Food,55.015,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Chuckles_Trial3,IPC,Chuckles,3,Press,Play,0.18,60,60,,Lip/Nose Licking,,,POINT
+IPC_Chuckles_Trial4,IPC,Chuckles,4,Press,Daxing,8.888,60,60,,Lip/Nose Licking,,,POINT
+IPC_Dillon_Trial2,IPC,Dillon,2,Press,Daxing,33.873,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Dillon_Trial2,IPC,Dillon,2,Press,Daxing,47.927,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Dillon_Trial2,IPC,Dillon,2,Press,Daxing,48.108,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Dillon_Trial3,IPC,Dillon,3,Press,Outside,43.963,60,60,,Lip/Nose Licking,,,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,6.606,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,7.267,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,12.492,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,20.136,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,21.081,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,37.477,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,42.402,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,44.924,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,45.225,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Dillon_Trial4,IPC,Dillon,4,Press,Play,45.585,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+IPC_Eleanor_Trial1,IPC,Eleanor,1,Press,Play,5.645,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial1,IPC,Eleanor,1,Press,Play,23.723,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial1,IPC,Eleanor,1,Press,Play,24.864,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial2,IPC,Eleanor,2,Press,Daxing,2.702,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial2,IPC,Eleanor,2,Press,Daxing,3.543,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial3,IPC,Eleanor,3,Press,Outside,13.753,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial3,IPC,Eleanor,3,Press,Outside,15.015,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial3,IPC,Eleanor,3,Press,Outside,53.153,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor_Trial3,IPC,Eleanor,3,Press,Outside,54.774,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor2_Trial2,IPC,Eleanor2,2,Press,Outside,0.9,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor2_Trial2,IPC,Eleanor2,2,Press,Outside,53.033,60,60,,Lip/Nose Licking,,,POINT
+IPC_Eleanor2_Trial2,IPC,Eleanor2,2,Press,Outside,55.075,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,15.015,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,44.144,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,48.528,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,49.609,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,51.471,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial2,IPC,Frank,2,Press,Food,53.093,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial3,IPC,Frank,3,Press,Outside,15.495,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial3,IPC,Frank,3,Press,Outside,28.168,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial3,IPC,Frank,3,Press,Outside,50.09,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial4,IPC,Frank,4,Press,Daxing,15.435,60,60,,Lip/Nose Licking,,,POINT
+IPC_Frank_Trial4,IPC,Frank,4,Press,Daxing,50.87,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,5.825,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,7.207,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,9.369,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,17.717,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,26.546,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial1,IPC,Gibson,1,Press,Daxing,32.552,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial2,IPC,Gibson,2,Press,Play,10.27,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial2,IPC,Gibson,2,Press,Play,16.036,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Gibson_Trial2,IPC,Gibson,2,Press,Play,23.303,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Gibson_Trial2,IPC,Gibson,2,Press,Play,42.642,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Gibson_Trial2,IPC,Gibson,2,Press,Play,42.702,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Gibson_Trial3,IPC,Gibson,3,Press,Food,8.408,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial3,IPC,Gibson,3,Press,Food,17.357,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial3,IPC,Gibson,3,Press,Food,53.636,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial3,IPC,Gibson,3,Press,Food,59.039,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gibson_Trial4,IPC,Gibson,4,Press,Outside,24.984,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,11.051,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,12.732,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,29.189,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,30.99,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,36.156,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,37.297,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,43.663,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,45.645,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,48.348,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,51.171,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,52.252,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,53.213,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,54.474,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial1,IPC,Gracie,1,Press,Play,55.615,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial2,IPC,Gracie,2,Press,Daxing,30.21,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial2,IPC,Gracie,2,Press,Daxing,30.87,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial2,IPC,Gracie,2,Press,Daxing,54.774,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial3,IPC,Gracie,3,Press,Food,28.948,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial3,IPC,Gracie,3,Press,Food,30.39,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial4,IPC,Gracie,4,Press,Outside,9.489,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial4,IPC,Gracie,4,Press,Outside,24.204,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial4,IPC,Gracie,4,Press,Outside,43.363,60,60,,Lip/Nose Licking,,,POINT
+IPC_Gracie_Trial4,IPC,Gracie,4,Press,Outside,45.645,60,60,,Lip/Nose Licking,,,POINT
+IPC_Izzy_Trial1,IPC,Izzy,1,Press,Outside,16.456,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Izzy_Trial1,IPC,Izzy,1,Press,Outside,44.924,60,60,,Lip/Nose Licking,,,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,6.306,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,6.366,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,9.309,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,34.294,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,34.354,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,39.159,60,60,,Door-Directed Behaviors,,Touching Door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,47.987,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,48.708,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Izzy_Trial2,IPC,Izzy,2,Press,Play,51.351,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Izzy_Trial3,IPC,Izzy,3,Press,Daxing,37.885,60,60,,Lip/Nose Licking,,,POINT
+IPC_Izzy_Trial3,IPC,Izzy,3,Press,Daxing,52.432,60,60,,Lip/Nose Licking,,,POINT
+IPC_Izzy_Trial3,IPC,Izzy,3,Press,Daxing,53.993,60,60,,Lip/Nose Licking,,,POINT
+IPC_Jumbo_Trial1,IPC,Jumbo,1,Press,Outside,0,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Jumbo_Trial1,IPC,Jumbo,1,Press,Outside,47.087,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Jumbo_Trial1,IPC,Jumbo,1,Press,Outside,49.069,60,60,,Lip/Nose Licking,,,POINT
+IPC_Jumbo_Trial1,IPC,Jumbo,1,Press,Outside,57.357,60,60,,Lip/Nose Licking,,,POINT
+IPC_Jumbo_Trial2,IPC,Jumbo,2,Press,Play,6.366,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Jumbo_Trial2,IPC,Jumbo,2,Press,Play,6.426,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Jumbo_Trial2,IPC,Jumbo,2,Press,Play,12.072,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial2,IPC,Jumbo,2,Press,Play,29.489,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,0.06,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,0.12,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,0.42,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,10.93,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,11.171,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,25.705,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,26.066,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,42.762,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,44.804,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,46.246,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,48.348,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,48.768,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,49.069,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,54.234,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,55.615,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,57.357,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial3,IPC,Jumbo,3,Press,Food,57.417,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,0.06,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,0.36,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,3.663,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,6.606,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,7.207,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,37.237,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,38.738,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,38.978,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,40.06,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,44.564,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,55.315,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,55.615,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Jumbo_Trial4,IPC,Jumbo,4,Press,Daxing,59.939,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Juniper_Trial1,IPC,Juniper,1,Press,Outside,3.723,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juniper_Trial1,IPC,Juniper,1,Press,Outside,4.504,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juniper_Trial1,IPC,Juniper,1,Press,Outside,45.465,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juniper_Trial1,IPC,Juniper,1,Press,Outside,45.945,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juniper_Trial2,IPC,Juniper,2,Press,Daxing,5.225,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juniper_Trial2,IPC,Juniper,2,Press,Daxing,6.426,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juniper_Trial3,IPC,Juniper,3,Press,Food,12.852,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juniper_Trial3,IPC,Juniper,3,Press,Food,13.153,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juniper_Trial4,IPC,Juniper,4,Press,Play,31.111,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juniper_Trial4,IPC,Juniper,4,Press,Play,31.291,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juno_Trial1,IPC,Juno,1,Press,Food,0.72,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Juno_Trial1,IPC,Juno,1,Press,Food,0.84,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Juno_Trial2,IPC,Juno,2,Press,Play,19.159,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Juno_Trial2,IPC,Juno,2,Press,Play,19.339,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Juno_Trial2,IPC,Juno,2,Press,Play,21.741,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Juno_Trial3,IPC,Juno,3,Press,Daxing,6.726,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial3,IPC,Juno,3,Press,Daxing,7.747,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Juno_Trial3,IPC,Juno,3,Press,Daxing,7.867,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Juno_Trial3,IPC,Juno,3,Press,Daxing,9.849,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial3,IPC,Juno,3,Press,Daxing,13.933,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,0,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,18.498,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,18.678,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,18.978,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,20.3,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,24.324,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,27.207,60,60,,Lip/Nose Licking,,,POINT
+IPC_Juno_Trial4,IPC,Juno,4,Press,Outside,33.153,60,60,,Lip/Nose Licking,,,POINT
+IPC_Kitsune_Trial1,IPC,Kitsune,1,Press,Play,50.27,60,60,,Lip/Nose Licking,,,POINT
+IPC_Kitsune_Trial2,IPC,Kitsune,2,Press,Outside,21.501,60,60,,Lip/Nose Licking,,,POINT
+IPC_Kitsune_Trial3,IPC,Kitsune,3,Press,Food,21.561,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Kitsune_Trial3,IPC,Kitsune,3,Press,Food,22.162,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Kitsune_Trial3,IPC,Kitsune,3,Press,Food,48.828,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Kitsune_Trial3,IPC,Kitsune,3,Press,Food,52.972,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Kitsune_Trial4,IPC,Kitsune,4,Press,Daxing,27.567,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Kitsune_Trial4,IPC,Kitsune,4,Press,Daxing,43.423,60,60,,Lip/Nose Licking,,,POINT
+IPC_Kitsune_Trial4,IPC,Kitsune,4,Press,Daxing,49.489,60,60,,Lip/Nose Licking,,,POINT
+IPC_Lobo_Trial1,IPC,Lobo,1,Press,Food,16.576,60,60,,Lip/Nose Licking,,,POINT
+IPC_Lobo_Trial1,IPC,Lobo,1,Press,Food,18.618,60,60,,Lip/Nose Licking,,,POINT
+IPC_Lobo_Trial1,IPC,Lobo,1,Press,Food,20.48,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Lobo_Trial1,IPC,Lobo,1,Press,Food,20.54,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Lobo_Trial1,IPC,Lobo,1,Press,Food,44.264,60,60,,Lip/Nose Licking,,,POINT
+IPC_Lobo_Trial2,IPC,Lobo,2,Press,Outside,10.69,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Lobo_Trial2,IPC,Lobo,2,Press,Outside,10.81,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Lobo_Trial3,IPC,Lobo,3,Press,Play,38.498,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Lobo_Trial3,IPC,Lobo,3,Press,Play,38.918,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Lobo_Trial3,IPC,Lobo,3,Press,Play,41.501,60,60,,Lip/Nose Licking,,,POINT
+IPC_Lobo_Trial4,IPC,Lobo,4,Press,Daxing,52.072,60,60,,Lip/Nose Licking,,,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,0.78,60,60,,Food-Directed Behaviors,,Sitting / Lying by bowl,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,4.924,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,8.888,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,9.009,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,14.594,60,60,,Lip/Nose Licking,,,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,17.777,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,18.558,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Luna_Trial3,IPC,Luna,3,Press,Food,25.945,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+IPC_Luna_Trial4,IPC,Luna,4,Press,Daxing,30.33,60,60,,Lip/Nose Licking,,,POINT
+IPC_Luna_Trial4,IPC,Luna,4,Press,Daxing,59.879,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,4.144,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,4.804,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,6.126,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,24.624,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,25.105,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial1,IPC,Misty,1,Press,Daxing,38.858,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial2,IPC,Misty,2,Press,Outside,4.324,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial2,IPC,Misty,2,Press,Outside,13.633,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Misty_Trial2,IPC,Misty,2,Press,Outside,13.813,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Misty_Trial3,IPC,Misty,3,Press,Food,2.582,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial3,IPC,Misty,3,Press,Food,5.345,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Misty_Trial3,IPC,Misty,3,Press,Food,6.134,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Misty_Trial3,IPC,Misty,3,Press,Food,34.174,60,60,,Lip/Nose Licking,,,POINT
+IPC_Misty_Trial3,IPC,Misty,3,Press,Food,35.015,60,60,,Lip/Nose Licking,,,POINT
+IPC_Mokai_Trial1,IPC,Mokai,1,Press,Food,28.168,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Mokai_Trial1,IPC,Mokai,1,Press,Food,28.468,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Mokai_Trial1,IPC,Mokai,1,Press,Food,29.849,60,60,,Food-Directed Behaviors,,Touching Bowl,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,0.84,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,0.96,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,3.543,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,3.723,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,4.084,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,4.444,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,4.924,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,5.105,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,20.78,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,21.741,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,21.921,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,22.642,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,28.288,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial2,IPC,Mokai,2,Press,Play,32.072,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,6.966,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,7.147,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,7.867,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,10.15,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,10.93,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,11.051,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,11.711,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,13.753,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,15.615,60,60,,Toy-Directed Behaviors,,Picking up Toy,POINT
+IPC_Mokai_Trial4,IPC,Mokai,4,Press,Daxing,16.336,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Oski_Trial1,IPC,Oski,1,Press,Outside,33.093,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Oski_Trial1,IPC,Oski,1,Press,Outside,33.333,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Oski_Trial1,IPC,Oski,1,Press,Outside,36.396,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Oski_Trial3,IPC,Oski,3,Press,Play,23.423,60,60,,Lip/Nose Licking,,,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,3.483,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,4.144,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,4.864,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,7.807,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,54.054,60,60,,Head Tilting,,Right,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,54.954,60,60,,Head Tilting,,Right,POINT
+IPC_Parker_Trial4,IPC,Parker,4,Press,Food,56.996,60,60,,Head Tilting,,Right,POINT
+IPC_Pepita_Trial1,IPC,Pepita,1,Press,Outside,8.401,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial1,IPC,Pepita,1,Press,Outside,23.723,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial1,IPC,Pepita,1,Press,Outside,51.885,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,7.905,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,19.635,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,29.309,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,29.637,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,30.136,60,60,,Door-Directed Behaviors,,Moving Towards Door,POINT
+IPC_Pepita_Trial2,IPC,Pepita,2,Press,Play,36.385,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial3,IPC,Pepita,3,Press,Food,3.963,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial3,IPC,Pepita,3,Press,Food,20.54,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial3,IPC,Pepita,3,Press,Food,21.501,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial3,IPC,Pepita,3,Press,Food,27.687,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial3,IPC,Pepita,3,Press,Food,53.513,60,60,,Door-Directed Behaviors,,Sitting / Lying by Door,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,0,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,1.381,60,60,,Door-Directed Behaviors,,Looking at door,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,11.711,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,12.552,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,14.954,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,16.816,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,18.078,60,60,,Lip/Nose Licking,,,POINT
+IPC_Pepita_Trial4,IPC,Pepita,4,Press,Daxing,19.819,60,60,,Lip/Nose Licking,,,POINT
+IPC_PJ_Trial2,IPC,PJ,2,Press,Daxing,15.435,60,60,,Lip/Nose Licking,,,POINT
+IPC_PJ_Trial4,IPC,PJ,4,Press,Outside,1.621,60,60,,Lip/Nose Licking,,,POINT
+IPC_PJ_Trial4,IPC,PJ,4,Press,Outside,2.582,60,60,,Lip/Nose Licking,,,POINT
+IPC_Rey_Trial1,IPC,Rey,1,Press,Food,13.633,60,60,,Lip/Nose Licking,,,POINT
+IPC_Rey_Trial1,IPC,Rey,1,Press,Food,14.151,60,60,,Lip/Nose Licking,,,POINT
+IPC_Rey_Trial1,IPC,Rey,1,Press,Food,37.777,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Rey_Trial1,IPC,Rey,1,Press,Food,37.837,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Rey_Trial1,IPC,Rey,1,Press,Food,38.318,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Rey_Trial3,IPC,Rey,3,Press,Daxing,53.753,60,60,,Lip/Nose Licking,,,POINT
+IPC_Scout_Trial1,IPC,Scout,1,Press,Daxing,42.102,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Scout_Trial1,IPC,Scout,1,Press,Daxing,42.342,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Scout_Trial2,IPC,Scout,2,Press,Play,6.306,60,60,,Lip/Nose Licking,,,POINT
+IPC_Scout_Trial2,IPC,Scout,2,Press,Play,9.489,60,60,,Lip/Nose Licking,,,POINT
+IPC_Scout_Trial2,IPC,Scout,2,Press,Play,10.03,60,60,,Lip/Nose Licking,,,POINT
+IPC_Scout_Trial3,IPC,Scout,3,Press,Outside,14.714,60,60,,Lip/Nose Licking,,,POINT
+IPC_Scout_Trial3,IPC,Scout,3,Press,Outside,29.489,60,60,,Toy-Directed Behaviors,,Looking at Toy,POINT
+IPC_Scout_Trial3,IPC,Scout,3,Press,Outside,29.609,60,60,,Toy-Directed Behaviors,,Moving Towards Toy,POINT
+IPC_Scout_Trial3,IPC,Scout,3,Press,Outside,34.054,60,60,,Toy-Directed Behaviors,,Touching Toy,POINT
+IPC_Simon_Trial1,IPC,Simon,1,Press,Outside,10.45,60,60,,Lip/Nose Licking,,,POINT
+IPC_Zero_Trial1,IPC,Zero,1,Press,Food,15.795,60,60,,Lip/Nose Licking,,,POINT
+IPC_Zero_Trial1,IPC,Zero,1,Press,Food,16.816,60,60,,Lip/Nose Licking,,,POINT
+IPC_Zero_Trial1,IPC,Zero,1,Press,Food,21.921,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Zero_Trial1,IPC,Zero,1,Press,Food,45.165,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Zero_Trial2,IPC,Zero,2,Press,Daxing,45.105,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Zero_Trial2,IPC,Zero,2,Press,Daxing,45.345,60,60,,Food-Directed Behaviors,,Moving Towards Bowl,POINT
+IPC_Zero_Trial2,IPC,Zero,2,Press,Daxing,47.927,60,60,,Food-Directed Behaviors,,Sitting / Lying by bowl,POINT
+IPC_Zero_Trial3,IPC,Zero,3,Press,Outside,24.084,60,60,,Food-Directed Behaviors,,Looking at Bowl,POINT
+IPC_Zero_Trial3,IPC,Zero,3,Press,Outside,28.648,60,60,,Lip/Nose Licking,,,POINT
+IPC_Zero_Trial4,IPC,Zero,4,Press,Play,48.228,60,60,,Lip/Nose Licking,,,POINT
