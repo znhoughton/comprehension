@@ -1,0 +1,332 @@
+---
+title: "Comprehension Analysis"
+author: "Zach Houghton"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This Markdown is the analysis script for the Comprehension Study.
+
+## Preparing Our Data
+
+```{r}
+library(tidyverse)
+library(brms)
+```
+
+Loading in our data:
+
+```{r}
+data = read_csv('../data/All_Observations_Combined.csv')
+
+data = data %>%
+  rename(subject = Dog) %>%
+  rename(condition = Button) %>%
+  rename(mode = Type)
+
+data = data %>%
+  filter(condition != 'Daxing') %>%
+  dplyr::select(-Subject, -Modifiers)
+
+
+```
+
+We're going to try to predict food-directed behaviors by condition, then outside-directed behaviors by condition, then play behaviors by condition. The assumption is that we should have a higher probability of food-directed behaviors for the food condition than the others, and so on and so forth. Thus a logistic regression will be our friend here.
+
+```{r}
+data_analysis2 = data %>%
+  mutate(food_behaviors = ifelse(Behavior == 'Food-Directed Behaviors' | Behavior == 'Lip/Nose Licking', 1, 0)) %>%
+  mutate(outside_behaviors = ifelse(Behavior == 'Door-Directed Behaviors', 1, 0)) %>%
+  mutate(play_behaviors = ifelse(Behavior == 'Toy-Directed Behaviors', 1, 0))
+
+head(data_analysis2)
+```
+
+```{r}
+
+options(contrasts = c("contr.sum","contr.sum"))
+
+data_analysis2a = data_analysis2 
+data_analysis2a$condition = factor(data_analysis2a$condition, levels = c('Food', 'Outside', 'Play'))
+
+model2a = brm(food_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis2a,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2a'
+)
+
+data_analysis2b = data_analysis2 
+data_analysis2b$condition = factor(data_analysis2b$condition, levels = c('Outside', 'Food', 'Play'))
+
+model2b = brm(outside_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis2b,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2b'
+)
+
+data_analysis2c = data_analysis2 
+data_analysis2c$condition = factor(data_analysis2c$condition, levels = c('Play', 'Food', 'Outside'))
+
+model2c = brm(play_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis2c,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2c'
+)
+
+#condition1 is always what the target condition is (i.e., the condition that we expect to be meaningful if dogs understand the word)
+
+```
+
+Let's examine the individual differences for each model:
+
+```{r echo = F, warning = F}
+library(bmmb)
+library(brmstools)
+
+ranefs2a = ranef(model2a, pars = 'condition1')
+
+ranefs2b = ranef(model2b, pars = 'condition1')
+
+ranefs2c = ranef(model2c, pars = 'condition1')
+
+plot_ranef1 = forest(model2a, grouping = 'subject', pars = 'condition1', sort = T)
+plot_ranef2 = forest(model2b, grouping = 'subject', pars = 'condition1', sort = T)
+plot_ranef3 = forest(model2c, grouping = 'subject', pars = 'condition1', sort = T)
+
+```
+
+\
+
+```{r}
+plot_ranef1 + theme_bw() + ggtitle('Food Condition')
+plot_ranef2 + theme_bw() + ggtitle('Outside Condition')
+plot_ranef3 + theme_bw() + ggtitle('Play Condition')
+```
+
+## No lip-licking model
+
+**Lip-licking is a stress behavior, so let's check if our results depend on the coding of lip-licking as food-directed behavior (i.e., would we get different results if we didn't code lip-licking as food-directed behavior):**
+
+```{r}
+data_analysis_no_liplicking = data %>%
+  filter(Behavior != 'Lip/Nose Licking')
+data_analysis_no_liplicking = data_analysis_no_liplicking %>%
+  mutate(food_behaviors = ifelse(Behavior == 'Food-Directed Behaviors', 1, 0)) %>%
+  mutate(outside_behaviors = ifelse(Behavior == 'Door-Directed Behaviors', 1, 0)) %>%
+  mutate(play_behaviors = ifelse(Behavior == 'Toy-Directed Behaviors', 1, 0))
+
+
+data_analysis_no_liplicking_final = data_analysis_no_liplicking
+```
+
+No liplicking models:
+
+```{r}
+data_analysis_final2 = data_analysis_final %>%
+  filter(Behavior != 'Lip/Nose Licking')
+write_csv(data_analysis_final2, 'data_analysis.csv')
+model1_no_liplicking = brm(num_behaviors ~ condition * behavior_type * Experiment + (1 + condition * behavior_type | subject),
+             data = data_analysis_final2,
+             save_pars = save_pars(all = T),
+             family = negbinomial(link = 'log'),
+             iter = 12000,
+             warmup = 6000,
+             chains = 4,
+             cores = 4,
+             control = list(max_treedepth = 20),
+             file = 'model1_no_liplicking'
+)
+```
+
+```{r}
+options(contrasts = c("contr.sum","contr.sum"))
+
+data_analysis_no_liplicking2a = data_analysis_no_liplicking_final
+write_csv(data_analysis_no_liplicking_final, 'dataset for writeup.csv')
+data_analysis_no_liplicking2a$condition = factor(data_analysis_no_liplicking2a$condition, levels = c('Food', 'Outside', 'Play'))
+
+model2a_no_liplicking = brm(food_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis_no_liplicking2a,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2a_no_liplicking'
+)
+
+data_analysis_no_liplicking2b = data_analysis_no_liplicking2a
+data_analysis_no_liplicking2b$condition = factor(data_analysis_no_liplicking2b$condition, levels = c('Outside', 'Food', 'Play'))
+
+model2b_no_liplicking = brm(outside_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis_no_liplicking2b,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2b_no_liplicking'
+)
+
+data_analysis_no_liplicking2c = data_analysis_no_liplicking2a
+data_analysis_no_liplicking2c$condition = factor(data_analysis_no_liplicking2c$condition, levels = c('Play', 'Food', 'Outside'))
+
+model2c_no_liplicking = brm(play_behaviors ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis_no_liplicking2c,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model2c_no_liplicking'
+)
+
+#condition1 is always what the target condition is (i.e., the condition that we expect to be meaningful if dogs understand the word)
+```
+
+Forest plots:
+
+```{r}
+ranefs2a_no_liplicking = ranef(model2a_no_liplicking, pars = 'condition1')
+
+ranefs2b_no_liplicking = ranef(model2b_no_liplicking, pars = 'condition1')
+
+ranefs2c_no_liplicking = ranef(model2c_no_liplicking, pars = 'condition1')
+
+plot_ranef1_no_liplicking = forest(model2a_no_liplicking, grouping = 'subject', pars = 'condition1', sort = T)
+plot_ranef2_no_liplicking = forest(model2b_no_liplicking, grouping = 'subject', pars = 'condition1', sort = T)
+plot_ranef3_no_liplicking = forest(model2c_no_liplicking, grouping = 'subject', pars = 'condition1', sort = T)
+
+```
+
+```{r}
+plot_ranef1_no_liplicking + theme_bw() + ggtitle('Food Condition')
+plot_ranef2_no_liplicking + theme_bw() + ggtitle('Outside Condition')
+plot_ranef3_no_liplicking + theme_bw() + ggtitle('Play Condition')
+```
+
+## Analysis 2
+
+Now we want to determine whether the number of head tilts is different for the nonce-word condition with respect to the real-word conditions. For this analysis, we'll use treatment coding, with the nonce-word condition as our reference level.
+
+It's worth noting that we have only 11 instances of head tilting, so I doubt we have the power to detect an effect.
+
+```{r}
+options(contrasts = c('contr.treatment','contr.treatment')) #back to treatment
+
+data_m3 = read_csv('../data/Alex_CSC_Combined_Observations_Updated_2022-04-30.csv')
+
+data_m3 = data_m3 %>%
+  rename(subject = Dog) %>%
+  rename(condition = Button) %>%
+  rename(mode = Type)
+
+data_m3 = data_m3 %>%
+  dplyr::select(-Subject, -Modifiers, -`Behavior type`)
+  
+  
+data_analysis_m3 = data_m3 %>%
+  group_by(subject, Experiment, condition, Trial, Behavior) %>%
+  summarize(num_head_tilts = sum(Behavior == 'Head Tilting', .drop = F))
+
+data_analysis_m3$condition = factor(data_analysis_m3$condition, levels = c('Daxing', 'Food', 'Outside', 'Play'))
+
+m3 = brm(num_head_tilts ~ condition * Experiment + (1 + condition | subject),
+             data = data_analysis_m3,
+             family = negbinomial(link = 'log'),
+             save_pars = save_pars(all = T),
+             iter = 16000,
+             warmup = 8000,
+             chains = 4,
+             cores = 4, 
+             control = list(max_treedepth = 20),
+             file = 'model3'
+)
+
+options(contrasts = c("contr.sum","contr.sum")) #sum coding
+```
+
+## Analysis 3
+
+Next, we will ask whether the modality of the word (whether pressed or spoken) affects the dog's comprehension. Since only the citizen science experiment manipulated this, we will only run the model on the citizen science subset of the data:
+
+```{r}
+options(contrasts = c("contr.sum","contr.sum"))
+data_analysis_no_liplicking_final = data_analysis_no_liplicking_final %>%
+  filter(Experiment == 'CSC')
+
+
+data_analysis_no_liplicking4a = data_analysis_no_liplicking_final
+#write_csv(data_analysis_no_liplicking_final, 'dataset for writeup.csv')
+data_analysis_no_liplicking4a$condition = factor(data_analysis_no_liplicking4a$condition, levels = c('Food', 'Outside', 'Play'))
+
+model4a_no_liplicking = brm(food_behaviors ~ condition * mode + (1 + condition*mode | subject),
+             data = data_analysis_no_liplicking4a,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model4a_no_liplicking'
+)
+
+data_analysis_no_liplicking4b = data_analysis_no_liplicking4a
+data_analysis_no_liplicking4b$condition = factor(data_analysis_no_liplicking4b$condition, levels = c('Outside', 'Food', 'Play'))
+
+model4b_no_liplicking = brm(outside_behaviors ~ condition * mode + (1 + condition*mode | subject),
+             data = data_analysis_no_liplicking4b,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model4b_no_liplicking'
+)
+
+data_analysis_no_liplicking4c = data_analysis_no_liplicking4a
+data_analysis_no_liplicking4c$condition = factor(data_analysis_no_liplicking4c$condition, levels = c('Play', 'Food', 'Outside'))
+
+model4c_no_liplicking = brm(play_behaviors ~ condition * mode + (1 + condition*mode | subject),
+             data = data_analysis_no_liplicking4c,
+             save_pars = save_pars(all = T),
+             family = bernoulli(link = 'logit'),
+             iter = 4000,
+             warmup = 2000,
+             chains = 4,
+             cores = 4,
+             #control = list(max_treedepth = 20),
+             file = 'model4c_no_liplicking'
+)
+```
