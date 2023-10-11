@@ -16,12 +16,14 @@ This Markdown is the analysis script for the Comprehension Study.
 ```{r}
 library(tidyverse)
 library(brms)
+library(bmmb)
+library(brmstools)
 ```
 
 Loading in our data:
 
 ```{r}
-data = read_csv('../data/All_Observations_Combined.csv')
+data = read_csv('All_Observations_Combined.csv')
 
 data = data %>%
   rename(subject = Dog) %>%
@@ -46,88 +48,10 @@ data_analysis2 = data %>%
 head(data_analysis2)
 ```
 
-```{r}
-
-options(contrasts = c("contr.sum","contr.sum"))
-
-data_analysis2a = data_analysis2 
-data_analysis2a$condition = factor(data_analysis2a$condition, levels = c('Food', 'Outside', 'Play'))
-
-model2a = brm(food_behaviors ~ condition * Experiment + (1 + condition | subject),
-             data = data_analysis2a,
-             save_pars = save_pars(all = T),
-             family = bernoulli(link = 'logit'),
-             iter = 4000,
-             warmup = 2000,
-             chains = 4,
-             cores = 4,
-             #control = list(max_treedepth = 20),
-             file = 'model2a'
-)
-
-data_analysis2b = data_analysis2 
-data_analysis2b$condition = factor(data_analysis2b$condition, levels = c('Outside', 'Food', 'Play'))
-
-model2b = brm(outside_behaviors ~ condition * Experiment + (1 + condition | subject),
-             data = data_analysis2b,
-             save_pars = save_pars(all = T),
-             family = bernoulli(link = 'logit'),
-             iter = 4000,
-             warmup = 2000,
-             chains = 4,
-             cores = 4,
-             #control = list(max_treedepth = 20),
-             file = 'model2b'
-)
-
-data_analysis2c = data_analysis2 
-data_analysis2c$condition = factor(data_analysis2c$condition, levels = c('Play', 'Food', 'Outside'))
-
-model2c = brm(play_behaviors ~ condition * Experiment + (1 + condition | subject),
-             data = data_analysis2c,
-             save_pars = save_pars(all = T),
-             family = bernoulli(link = 'logit'),
-             iter = 4000,
-             warmup = 2000,
-             chains = 4,
-             cores = 4,
-             #control = list(max_treedepth = 20),
-             file = 'model2c'
-)
-
-#condition1 is always what the target condition is (i.e., the condition that we expect to be meaningful if dogs understand the word)
-
-```
-
-Let's examine the individual differences for each model:
-
-```{r echo = F, warning = F}
-library(bmmb)
-library(brmstools)
-
-ranefs2a = ranef(model2a, pars = 'condition1')
-
-ranefs2b = ranef(model2b, pars = 'condition1')
-
-ranefs2c = ranef(model2c, pars = 'condition1')
-
-plot_ranef1 = forest(model2a, grouping = 'subject', pars = 'condition1', sort = T)
-plot_ranef2 = forest(model2b, grouping = 'subject', pars = 'condition1', sort = T)
-plot_ranef3 = forest(model2c, grouping = 'subject', pars = 'condition1', sort = T)
-
-```
-
 \
+No lip-licking model
 
-```{r}
-plot_ranef1 + theme_bw() + ggtitle('Food Condition')
-plot_ranef2 + theme_bw() + ggtitle('Outside Condition')
-plot_ranef3 + theme_bw() + ggtitle('Play Condition')
-```
-
-## No lip-licking model
-
-**Lip-licking is a stress behavior, so let's check if our results depend on the coding of lip-licking as food-directed behavior (i.e., would we get different results if we didn't code lip-licking as food-directed behavior):**
+**Lip-licking is a stress behavior so we will exclude rows with lip licking as a value.**
 
 ```{r}
 data_analysis_no_liplicking = data %>%
@@ -242,7 +166,7 @@ It's worth noting that we have only 11 instances of head tilting, so I doubt we 
 ```{r}
 options(contrasts = c('contr.treatment','contr.treatment')) #back to treatment
 
-data_m3 = read_csv('../data/Alex_CSC_Combined_Observations_Updated_2022-04-30.csv')
+data_m3 = read_csv('Alex_CSC_Combined_Observations_Updated_2022-04-30.csv')
 
 data_m3 = data_m3 %>%
   rename(subject = Dog) %>%
